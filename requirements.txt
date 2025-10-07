@@ -1,0 +1,14 @@
+PyPDF2
+python-docx
+gradio
+nltk
+wordcloud
+matplotlib
+scikit-learn
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+langchain
+langchain-community
+pillow
